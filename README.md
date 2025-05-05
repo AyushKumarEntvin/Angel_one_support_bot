@@ -38,6 +38,8 @@ pip install -r requirements.txt
 
 
 3. Create a `.env` file with your OpenAI API key:
+
+
 OPENAI_API_KEY=your_openai_api_key
 
 API_URL = "http://localhost:8000"  # Change this to your backend FastAPI URL
